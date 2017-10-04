@@ -35,6 +35,7 @@ A list of awesome open-source code and where to find it.
 - [Glide](https://github.com/bumptech/glide)
 - [Butter Knife](http://jakewharton.github.io/butterknife/)
 - [JsonSchema2Pojo](https://github.com/joelittlejohn/jsonschema2pojo)
+- [DidIt](https://github.com/TylerPelaez/DidIt)
 
 
 ## C# #
