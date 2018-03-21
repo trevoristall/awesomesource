@@ -11,6 +11,7 @@ A list of awesome open-source code and where to find it.
 - [Hacking](#hacking)
 - [Iconography](#iconography)
 - [Javascript](#javascript)
+- [Typescript](#typescript)
 - [Linux](#linux)
 - [Mac](#mac)
 - [Machine Learning](#machine_learning)
@@ -42,6 +43,7 @@ A list of awesome open-source code and where to find it.
 - [Orleans](https://github.com/dotnet/orleans)
 - [Powershell](https://github.com/PowerShell/PowerShell)
 - [Chocolatey](https://github.com/chocolatey/choco)
+- [Veldrid](https://github.com/mellinoe/veldrid)
 
 ## Cpp
 
@@ -56,6 +58,7 @@ A list of awesome open-source code and where to find it.
 - [Animate.css](https://daneden.github.io/animate.css/)
 - [Materialize](https://github.com/Dogfalo/materialize)
 - [Bulma](https://github.com/jgthms/bulma)
+- [Semantic UI](https://semantic-ui.com/)
 
 
 
@@ -73,6 +76,7 @@ A list of awesome open-source code and where to find it.
 
 - [Material Design Icons](https://github.com/google/material-design-icons)
 - [FontAwesome](https://github.com/FortAwesome/Font-Awesome)
+- [Iconic](https://useiconic.com/open)
 
 
 ## Javascript
@@ -91,7 +95,11 @@ A list of awesome open-source code and where to find it.
 - [Backbone](https://github.com/jashkenas/backbone)
 - [Meteor](https://github.com/meteor/meteor)
 - [D3](https://d3js.org/)
+- [WOW.js](http://mynameismatthieu.com/WOW/)
 
+## Typescript
+
+- [Angular](https://angular.io/)
 
 ## Linux
 
@@ -102,6 +110,7 @@ A list of awesome open-source code and where to find it.
 
 - [Mac-Setup](http://sourabhbajaj.com/mac-setup/)
 - [Homebrew](http://brew.sh/index.html)
+- [Deed](https://github.com/edderrd/deed)
 
 
 ## Machine_Learning
@@ -121,6 +130,7 @@ A list of awesome open-source code and where to find it.
 - [shogun](http://www.shogun-toolbox.org/)
 - [Oryx 2](https://github.com/cloudera/oryx)
 - [Poker Hand Classification](https://github.com/amlaanb/poker_classification)
+- [Brain](https://github.com/harthur/brain)
 
 
 ## Node
@@ -166,6 +176,7 @@ A list of awesome open-source code and where to find it.
 
 - [A curated list by ujjwalkarn for Data Science](https://github.com/ujjwalkarn/DataScienceR)
 - [A curated list of resources for R Shiny](https://github.com/grabear/awesome-rshiny)
+- [A curated list of awesome R packages and tools](https://github.com/qinwf/awesome-R)
 
 
 ## Ruby
