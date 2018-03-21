@@ -129,6 +129,7 @@ A list of awesome open-source code and where to find it.
 - [PyBrain] (https://github.com/pybrain/pybrain)
 - [shogun](http://www.shogun-toolbox.org/)
 - [Oryx 2](https://github.com/cloudera/oryx)
+- [Poker Hand Classification](https://github.com/amlaanb/poker_classification)
 - [Brain](https://github.com/harthur/brain)
 
 
@@ -212,6 +213,7 @@ A list of awesome open-source code and where to find it.
 ## Computer_Vision
 
 - [OpenCV](https://github.com/opencv/opencv)
+- [Color Segmentation with KMeans](https://github.com/amlaanb/KMeans_OpenCV)
 
 
 ## For_Laughs
